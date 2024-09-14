@@ -109,7 +109,8 @@ Test notifications to ensure they are working correctly.
 
 # 9. Access UI
 
-![image](https://github.com/user-attachments/assets/7e8d8787-ace6-4312-8b47-d0b2367db943)
+<img width="740" alt="nagios" src="https://github.com/user-attachments/assets/11b0b441-e0f0-4d94-92d6-dff1e34f2e63">
+
 
 System Performance:
 
