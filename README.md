@@ -107,10 +107,13 @@ Test notifications to ensure they are working correctly.
 <img width="355" alt="75" src="https://github.com/user-attachments/assets/aaac6af0-14b5-4490-963f-3ee881899a4a">
 
 
-# 9. Monitoring Metrics
+# 9. Access UI
+
+![image](https://github.com/user-attachments/assets/7e8d8787-ace6-4312-8b47-d0b2367db943)
+
 System Performance:
 
-Nagios comes with built-in checks to monitor CPU load, disk usage, and network traffic.
+Nagios comes with a build in UI to access. 
 
 You may need to configure and customize these checks depending on your requirements.
 
