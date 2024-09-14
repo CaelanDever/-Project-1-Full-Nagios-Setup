@@ -109,12 +109,16 @@ Test notifications to ensure they are working correctly.
 
 # 9. Access UI
 
-<img width="740" alt="nagios" src="https://github.com/user-attachments/assets/11b0b441-e0f0-4d94-92d6-dff1e34f2e63">
-
+<img width="563" alt="asda" src="https://github.com/user-attachments/assets/a681dddc-f222-4b5f-b23d-bbbd48987f36">
 
 System Performance:
 
 Nagios comes with a build in UI to access. 
+
+Check the process:
+
+<img width="553" alt="dsss" src="https://github.com/user-attachments/assets/98e85f24-0ea3-41ad-94eb-9c953fbecc53">
+
 
 You may need to configure and customize these checks depending on your requirements.
 
