@@ -109,7 +109,8 @@ Test notifications to ensure they are working correctly.
 
 # 9. Access UI
 
-<img width="563" alt="asda" src="https://github.com/user-attachments/assets/a681dddc-f222-4b5f-b23d-bbbd48987f36">
+
+![photo_2024-09-15_02-13-38](https://github.com/user-attachments/assets/49491858-f6ef-40ba-bb28-4d2d1fd77402)
 
 System Performance:
 
